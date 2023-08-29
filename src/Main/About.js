@@ -1,4 +1,3 @@
-// About.js
 import React from "react";
 import AboutBookRow from "./AboutBookRow";
 import { styled } from "styled-components";
